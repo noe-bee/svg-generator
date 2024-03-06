@@ -1,4 +1,4 @@
-# Readme-Generator
+# SVG-Generator
 
 ## Description
 
